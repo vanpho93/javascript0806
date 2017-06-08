@@ -22,5 +22,3 @@ switch (maMonHoc) {
         console.log('PHP');
         break;
 }
-
-https://www.facebook.com/groups/682646635434806/?source=create_flow
